@@ -1,0 +1,6 @@
+[submodule "bls-signatures"]
+	path = bls-signatures
+	url = https://github.com/Chia-Network/bls-signatures
+[submodule "python3-android"]
+	path = python3-android
+	url = https://github.com/yan12125/python3-android
